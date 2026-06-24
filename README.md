@@ -11,6 +11,6 @@ Patrick Bateman's business card, in the form of a website template.
 - The cards underneath move on hover... and you can remove them.
 - Free to use, and you can remove the credit on the page. But please leave the credit in the code!
 - The code can always be improved. Request a PR if you make any changes to the original template.
-- If you find it useful, you can [sponsor me on GitHub](https://github.com/sponsors/taylorsudo?frequency=one-time).
+- If you find it useful, you can [sponsor me on GitHub](https://github.com/sponsors/taylorl-ee?frequency=one-time).
 
-Let's see [Paul Allen's card](https://taylorsudo.github.io/patrick-bateman/paul-allen).
+Let's see [Paul Allen's card](https://taylorl-ee.github.io/patrick-bateman/paul-allen).
